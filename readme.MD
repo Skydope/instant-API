@@ -1,5 +1,6 @@
+![Logo](/instantAPIBanner.jpg "Logo instant API")
 
-# 📚 Backend Instant API Documentation
+# 📚 Backend instant API Documentation
 
 Esta documentación describe la API backend de tu aplicación, incluyendo los modelos, rutas, y el servidor. La estructura de la aplicación es como se muestra a continuación:
 
